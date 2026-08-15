@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Xournal++
+Comment=Take handwritten notes and annotate PDF documents.
+Exec=xournalpp %F
+Icon=com.github.xournalpp.xournalpp
+Terminal=false
+Categories=Office;Graphics;
