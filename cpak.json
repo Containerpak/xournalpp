@@ -4,7 +4,7 @@
   "name": "Xournal++",
   "description": "Take handwritten notes and annotate PDF documents.",
   "version": "1.3.3",
-  "image": "ghcr.io/containerpak/xournalpp@sha256:1aa08e8560712846573b46feb2548d6e3c126a0e8dc916c804e910da65ed328e",
+  "image": "ghcr.io/containerpak/xournalpp@sha256:7e9c75bcf43e9a02b9f919061bcdd0b3665943c0e9dc1c84729d2c0eaadeb7fb",
   "binaries": [
     "/usr/bin/xournalpp"
   ],
